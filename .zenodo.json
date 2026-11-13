@@ -1,0 +1,58 @@
+{
+  "creators": [
+    {
+      "name": "Liu, Zhangmiaoge",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    },
+    {
+      "name": "Wang, Ying",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    },
+    {
+      "name": "Wang, Jiawei",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    },
+    {
+      "name": "Duan, Zhenzhen",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    },
+    {
+      "name": "Yin, Siyuan",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    },
+    {
+      "name": "Wang, Junhua",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    },
+    {
+      "name": "Li, Jing",
+      "affiliation": "X-Photonics Laboratory, Intelligence Spectroscopy and Innovation Laboratory, College of Future Information Technology, Fudan University, Shanghai 200438, China"
+    }
+  ],
+  "version": "1.0.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "fluorescence microscopy",
+    "microtubules",
+    "simulation",
+    "photobleaching",
+    "controlled photophysics"
+  ],
+  "title": "CPPC supporting research data",
+  "upload_type": "dataset",
+  "description": "<p>Supporting numerical data for the CPPC fluorescence image simulation project. The archive contains 22 Excel workbooks organized into five groups: manuscript figure and table data, optical benchmarks, real iSTORM sample R2 morphology statistics, R2 localization data, and a simulation sample.</p><p>The data complement the CPPC simulation code and retain the organization of the published GitHub data repository.</p>",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yuandanmiao/CPPC_data",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/yuandanmiao/CPPC_code",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "license": "cc-by-4.0"
+}
